@@ -5,7 +5,7 @@
 ---
 
 ## 🎮 游戏在线玩 / Play Online
-🚀 **[点击这里开始试玩 / Click here to play the game]((https://jiafenglee4-star.github.io/Signs-of-Resistance/))**
+🚀 **[点击这里开始试玩 / Click here to play the game]((https://jiafenglee4-star.github.io/Signs-of-Resistance/)**
 *(请确保浏览器允许使用摄像头以进行手语识别 / Please ensure camera access is allowed for sign language recognition)*
 
 ---
