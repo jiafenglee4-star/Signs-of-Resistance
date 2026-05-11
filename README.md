@@ -35,7 +35,6 @@ The goal of this project is to leverage technology to bridge communication gaps,
 ## 🛠️ 技术实现 / Tech Stack
 
 * **Frontend**: HTML5, CSS3, JavaScript
-* **Recognition**: (如果你使用了 Mediapipe 或 TensorFlow.js 请标注在这里 / Mention your libraries here)
 * **Hosting**: GitHub Pages
 
 ---
